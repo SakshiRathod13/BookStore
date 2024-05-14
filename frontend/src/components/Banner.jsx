@@ -1,5 +1,5 @@
 import React from 'react'
-import Book from "../assets/Book.avif"
+import Book from "../../public/Book.avif"
 
 const Banner = () => {
   return (
