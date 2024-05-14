@@ -7,6 +7,7 @@ const App = () => {
     <div>  
       <Navbar/>
       <Banner/>
+      <hr></hr>
       <Footer/>
     </div>
   )

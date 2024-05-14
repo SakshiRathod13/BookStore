@@ -4,9 +4,9 @@ const Banner = () => {
   return (
     <>
         <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row' >
-            <div className='w-full md:1/2 '>
-                <div className=' space-x-2 space-y-10'>
-                <h1 className='  mt-16 text-4xl font-bold'>Hello, welcome here to learn something <span className='text-pink-600'>new everyday!!</span></h1>
+            <div className='w-full md:1/2 mt-12 md:mt-32'>
+                <div className=' space-y-12'>
+                <h1 className=' text-4xl font-bold'>Hello, welcome here to learn something <span className='text-pink-600'>new everyday!!</span></h1>
                 <p className='text-lg'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                 </p>
                 <label className="input input-bordered flex items-center gap-2">
@@ -20,7 +20,9 @@ const Banner = () => {
                 
             </div>
 
-            <div className='w-full md:1/2'>right</div>
+            <div className='w-full md:1/2'>
+                <img></img>
+            </div>
         </div>
     </>
     
