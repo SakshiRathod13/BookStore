@@ -1,10 +1,11 @@
 import React from 'react'
+import Book from "../assets/Book.avif"
 
 const Banner = () => {
   return (
     <>
-        <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row' >
-            <div className='w-full md:1/2 mt-12 md:mt-32'>
+        <div className='order-2 md:order-1  max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row' >
+            <div className='w-full md:1/2 mt-12 md:mt-32 py-5' >
                 <div className=' space-y-12'>
                 <h1 className=' text-4xl font-bold'>Hello, welcome here to learn something <span className='text-pink-600'>new everyday!!</span></h1>
                 <p className='text-lg'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
@@ -20,8 +21,8 @@ const Banner = () => {
                 
             </div>
 
-            <div className='w-full md:1/2'>
-                <img></img>
+            <div className='order-1 w-full md:1/2'>
+                <img src={Book} alt='book' className='w-96 h-96 '/>
             </div>
         </div>
     </>
