@@ -1,11 +1,14 @@
+
+
 [
     {
         "id":1,
         "name":"Story Book",
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
-        "category":"Free",
-        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=944fbf64-85cb-4da7-95fe-2531093223d4"
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740",
+        "category":"Free"
+       
     },
     {
         "id":2,
@@ -13,7 +16,7 @@
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Free",
-        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=944fbf64-85cb-4da7-95fe-2531093223d4"
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
     },
     {
         "id":3,
@@ -21,7 +24,7 @@
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Free",
-        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=944fbf64-85cb-4da7-95fe-2531093223d4"
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
     },
     {
         "id":4,
@@ -29,7 +32,7 @@
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Free",
-        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=944fbf64-85cb-4da7-95fe-2531093223d4"
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
     },
     {
         "id":5,
@@ -37,7 +40,7 @@
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Free",
-        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=944fbf64-85cb-4da7-95fe-2531093223d4"
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
     },
     {
         "id":6,
@@ -45,7 +48,7 @@
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Story",
-        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=944fbf64-85cb-4da7-95fe-2531093223d4"
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
     },
     {
         "id":7,
@@ -53,7 +56,7 @@
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Story",
-        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=944fbf64-85cb-4da7-95fe-2531093223d4"
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
     },
     {
         "id":8,
@@ -61,7 +64,7 @@
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Comedy",
-        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=944fbf64-85cb-4da7-95fe-2531093223d4"
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
     },
     {
         "id":9,
@@ -69,7 +72,7 @@
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Academic",
-        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=944fbf64-85cb-4da7-95fe-2531093223d4"
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
     },
     {
         "id":10,
@@ -77,6 +80,6 @@
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Free",
-        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=944fbf64-85cb-4da7-95fe-2531093223d4"
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
     }
 ]
