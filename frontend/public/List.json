@@ -3,83 +3,83 @@
 [
     {
         "id":1,
-        "name":"Story Book",
+        "name":"Digital Marketing",
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740",
+        "image":"https://img.freepik.com/premium-photo/community-cloud-storage-sync-secure_960782-40275.jpg?w=740",
         "category":"Free"
        
     },
     {
         "id":2,
-        "name":"Story Book",
+        "name":"Machine Learning",
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
-        "category":"Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?t=st=1716035519~exp=1716039119~hmac=c576f7cf211065f15a80e4bb441420bda0386abf57becfb4e9c54733bc478265&w=826"
     },
     {
         "id":3,
-        "name":"Story Book",
+        "name":"Google Ads",
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
+        "image":"https://img.freepik.com/premium-photo/community-cloud-storage-sync-secure_960782-40275.jpg?w=740"
     },
     {
         "id":4,
-        "name":"Story Book",
+        "name":"Machine Learning",
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
-        "category":"Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?t=st=1716035519~exp=1716039119~hmac=c576f7cf211065f15a80e4bb441420bda0386abf57becfb4e9c54733bc478265&w=826"
     },
     {
         "id":5,
-        "name":"Story Book",
+        "name":"Java Introduction",
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
+        "image":"https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1716036022~exp=1716039622~hmac=5b75835f6e5d1753e79d08c6ae31fbf762410375485bb2581196a1e1a36c345c&w=740"
     },
     {
         "id":6,
-        "name":"Story Book",
-        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
-        "price":0,
-        "category":"Story",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
-    },
-    {
-        "id":7,
-        "name":"Story Book",
-        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
-        "price":0,
-        "category":"Story",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
-    },
-    {
-        "id":8,
-        "name":"Comedy Book",
-        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
-        "price":0,
-        "category":"Comedy",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
-    },
-    {
-        "id":9,
-        "name":"Academic Book",
-        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
-        "price":0,
-        "category":"Academic",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
-    },
-    {
-        "id":10,
-        "name":"Story Book",
+        "name":"Python Introduction",
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716025195~exp=1716028795~hmac=2376df7467c86decf0e367d592148f3edbfed004f4550f98c7f86f9431e9df40&w=740"
+        "image":"https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?t=st=1716035519~exp=1716039119~hmac=c576f7cf211065f15a80e4bb441420bda0386abf57becfb4e9c54733bc478265&w=826"
+    },
+    {
+        "id":7,
+        "name":"Web Development",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+        "price":0,
+        "category":"paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-api-illustration_23-2149365021.jpg?t=st=1716036526~exp=1716040126~hmac=69a7ee7f4b91006c66ef6aaad4e1839c4de003851868af67e307a5bccc504c7e&w=740"
+    },
+    {
+        "id":8,
+        "name":"JavaScript Introduction",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1716036022~exp=1716039622~hmac=5b75835f6e5d1753e79d08c6ae31fbf762410375485bb2581196a1e1a36c345c&w=740"
+    },
+    {
+        "id":9,
+        "name":"Web Development",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+        "price":0,
+        "category":"paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-api-illustration_23-2149365021.jpg?t=st=1716036526~exp=1716040126~hmac=69a7ee7f4b91006c66ef6aaad4e1839c4de003851868af67e307a5bccc504c7e&w=740"
+    },
+    {
+        "id":10,
+        "name":"Deep Learning",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+        "price":0,
+        "category":"paid",
+        "image":"https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?t=st=1716035519~exp=1716039119~hmac=c576f7cf211065f15a80e4bb441420bda0386abf57becfb4e9c54733bc478265&w=826"
     }
 ]
