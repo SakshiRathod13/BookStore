@@ -1,12 +1,14 @@
 
-const express = require('express')
+import express from 'express'
+import dotenv from 'dotenv'
 const app = express()
-const port = 3000
+
+const PORT=process.env.PORT || 4000;
 
 app.get('/', (req, res) => {
-  res.send('Hey!')
+  res.send('!')
 })
 
-app.listen(port, () => {
-  console.log(`Server is  listening on port ${port}`)
+app.listen(PORT, () => {
+  console.log(`Server is  listening on port ${PORT}`)
 })
