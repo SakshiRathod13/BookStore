@@ -1,6 +1,17 @@
 import React from 'react'
+import { useForm, SubmitHandler } from "react-hook-form"
+
 
 const Login = () => {
+    const {
+        register,
+        handleSubmit,
+        
+        formState: { errors },
+      } = useForm()
+      const onSubmit= (data) => console.log(data)
+    
+      
   return (
     <>
     <div>
@@ -8,7 +19,7 @@ const Login = () => {
 
 <dialog id="my_modal_3" className="modal">
   <div className="modal-box">
-    <form method="dialog">
+    <form onSubmit={handleSubmit(onSubmit)} method="dialog">
       {/* if there is a button in form, it will close the modal */}
       <button className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
     </form>
@@ -18,14 +29,14 @@ const Login = () => {
        <label className="email ">
             <p>Email</p>
             <br></br>
-            <input className='w-100 height-90 px-2 py-1 rounded-md'   type="email" placeholder="Enter Email address" />
+            <input {...register("email", { required: true })} className='w-100 height-90 px-2 py-1 rounded-md' type="email" placeholder="Enter Email address" />
         </label>
        
        
-        <label className="password py-5">
+        <label className="password">
                 <p className='mt-6'>Password</p>
                 <br></br>
-                <input className=" w-90 px-2 py-1 rounded-md" type="password" placeholder="Enter Your Password" />
+                <input {...register("password", { required: true })} className=" w-90 px-2 py-1 rounded-md" type="password" placeholder="Enter Your Password" />
         </label>
        
        
@@ -33,7 +44,7 @@ const Login = () => {
     </div>
     <div className='flex justify-between '>
     <button className="btn btn-secondary mt-5">Login</button>
-    <p className='mt-8 '>Don't have an account? <a href='Register' className='text-pink-500 underline'>Register</a></p>
+    <p className='mt-8 '>Don't have an account? <a href='/Signup' className='text-pink-500 underline'>Register</a></p>
     
     </div>
    
