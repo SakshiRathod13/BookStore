@@ -22,7 +22,7 @@ const Banner = () => {
             </div>
 
             <div className='order-1 w-full md:1/2'>
-                <img src={Book} alt='book' className='w-300 h-100 px-2'/>
+                <img src="https://img.freepik.com/premium-photo/online-business-illustration_863013-38704.jpg?w=740" alt='book' className='w-300 h-100 px-2'/>
             </div>
         </div>
     </>

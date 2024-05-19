@@ -6,7 +6,7 @@
         "name":"Digital Marketing",
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
-        "image":"https://img.freepik.com/premium-photo/community-cloud-storage-sync-secure_960782-40275.jpg?w=740",
+        "image":"https://img.freepik.com/free-vector/digital-marketing-landing-page_33099-1726.jpg?t=st=1716098738~exp=1716102338~hmac=cd1289e0c1ad6136c6c8f969be35119224a1d6a2a409113f86804244494acb09&w=826",
         "category":"Free"
        
     },
@@ -16,7 +16,7 @@
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Paid",
-        "image":"https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?t=st=1716035519~exp=1716039119~hmac=c576f7cf211065f15a80e4bb441420bda0386abf57becfb4e9c54733bc478265&w=826"
+        "image":"https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?t=st=1716098376~exp=1716101976~hmac=febf41f267d53f36db5ecd5ddc1a3af2e6d82f9d1c3ba7a4645351ef9db64125&w=826"
     },
     {
         "id":3,
@@ -24,7 +24,7 @@
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Free",
-        "image":"https://img.freepik.com/premium-photo/community-cloud-storage-sync-secure_960782-40275.jpg?w=740"
+        "image":"https://img.freepik.com/free-vector/digital-marketing-landing-page_33099-1726.jpg?t=st=1716098738~exp=1716102338~hmac=cd1289e0c1ad6136c6c8f969be35119224a1d6a2a409113f86804244494acb09&w=826"
     },
     {
         "id":4,
@@ -32,7 +32,7 @@
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Paid",
-        "image":"https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?t=st=1716035519~exp=1716039119~hmac=c576f7cf211065f15a80e4bb441420bda0386abf57becfb4e9c54733bc478265&w=826"
+        "image":"https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?t=st=1716098376~exp=1716101976~hmac=febf41f267d53f36db5ecd5ddc1a3af2e6d82f9d1c3ba7a4645351ef9db64125&w=826"
     },
     {
         "id":5,
@@ -48,7 +48,7 @@
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"Free",
-        "image":"https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?t=st=1716035519~exp=1716039119~hmac=c576f7cf211065f15a80e4bb441420bda0386abf57becfb4e9c54733bc478265&w=826"
+        "image":"https://img.freepik.com/premium-photo/creative-desktop-wallpaper_941097-68074.jpg?w=996"
     },
     {
         "id":7,
@@ -80,6 +80,6 @@
         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
         "price":0,
         "category":"paid",
-        "image":"https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?t=st=1716035519~exp=1716039119~hmac=c576f7cf211065f15a80e4bb441420bda0386abf57becfb4e9c54733bc478265&w=826"
+        "image":"https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?t=st=1716098376~exp=1716101976~hmac=febf41f267d53f36db5ecd5ddc1a3af2e6d82f9d1c3ba7a4645351ef9db64125&w=826"
     }
 ]

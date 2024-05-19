@@ -5,11 +5,11 @@ const Cards = ({item}) => {
   return (
     <>
       <div className='mt-4 my-3 p-3'>
-        <div className="card w-92 bg-base-100 shadow-xl p-2">
+        <div className="card w-92 bg-base-100 shadow-xl p-2 hover:scale-105 duration-200">
           <figure>
-            <img
+            <img width="100%" height="200px"
               src={item.image}
-              alt="Books"
+              alt="Course"
             />
           </figure>
           <div className="card-body">

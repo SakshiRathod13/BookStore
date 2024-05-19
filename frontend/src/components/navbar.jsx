@@ -1,8 +1,20 @@
 import React from 'react'
 import { useState,useEffect } from 'react'
+import Login from './Login'
 
 const Navbar = () => {
+  const [theme,setTheme] = useState(localStorage.getItem('theme') ? localStorage.getItem('theme') : 'light')
+  const element=document.documentElement;
+  useEffect(() => {
+    if(theme==='dark'){
+      element.classList.add('dark')
+    }else{
+      element.classList.remove('dark')
+    }
+  }, [theme])
+
   const [sticky,setSticky] = useState(false)
+
   useEffect(() => {
     window.addEventListener('scroll', () => {
       if(window.scrollY > 10){
@@ -28,7 +40,7 @@ const Navbar = () => {
           <li><a href='About'> About</a></li>
       </ul>
     </div>
-    <a className="font-bold text-2xl">BookStore</a>
+    <a className="font-bold text-2xl ">EduSuite</a>
   </div>
   
   <div className='navbar-end' >
@@ -61,7 +73,7 @@ const Navbar = () => {
 
             <div className=''></div>
       <div className=''>
-        <a className="bg-black text-white px-3 py-2 rounded-md hover:bg-slate-800 duration-300 cursor-pointer">Login</a>
+        <a className="bg-black text-white px-3 py-2 rounded-md hover:bg-slate-800 duration-300 cursor-pointer " onClick={()=>document.getElementById('my_modal_3').showModal()} >Login</a> <Login/>
       </div>
   </div>
      

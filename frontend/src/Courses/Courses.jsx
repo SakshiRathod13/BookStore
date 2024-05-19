@@ -14,13 +14,13 @@ const Courses = () => {
         <h1 className='text-xl text-center mt-20 '>We Are Delighted to have you <span className='text-pink-500'>here! :)</span></h1>
         <p className='m-10 text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat quae? Vitae deleniti nesciunt, libero ipsa reiciendis esse provident iste. Dolores sit iste quas animi architecto dicta repellendus tenetur itaque.</p>
         <div>
-            <div className='grid grid-cols-1 md:grid-cols-4 gap-4 mt-10'>
+            <div className='grid grid-cols-1 md:grid-cols-4 gap-4 mt-10 '>
                 {list.map((item)=>(
-                    <div className="card bg-base-100 shadow-xl p-2">
+                    <div className="card bg-base-100 shadow-xl p-2 hover:scale-105 duration-300">
                         <figure>
                             <img
                             src={item.image}
-                            alt="Books"
+                            alt="Course"
                             />
                         </figure>
                         <div className="card-body">
